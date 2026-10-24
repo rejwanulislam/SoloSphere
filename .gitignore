@@ -1,9 +1,20 @@
 config.bat
+
 node_modules
 
+
+
 # Environment variables and local secrets
+
 !.env.example
+
 !.env.sample
+
 !.env.template
 
+
+
 # Local editor and workspace configuration
+
+
+# Incident Response Security Hardening
